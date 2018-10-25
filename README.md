@@ -1,1 +1,1 @@
-# shin-library.github.io
+# shin-library
