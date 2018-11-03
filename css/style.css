@@ -76,6 +76,10 @@ header nav{
   width:90px;
 }
 
+/*contact*/
+contact #main{
+  line-height: 80%;
+
 footer{
   padding:20px;
   margin-top: 20px;
