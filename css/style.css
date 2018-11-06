@@ -19,7 +19,7 @@ ul{
 }
 /* Header **/
 header{
-  background:#EE953D;
+  background:#7A68EC;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -80,6 +80,6 @@ footer{
   padding:20px;
   margin-top: 20px;
   color: #ffffff;
-  background-color: #EE953D;
+  background-color: #7A68EC;
   text-align: center;
 }
