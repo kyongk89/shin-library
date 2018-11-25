@@ -70,12 +70,32 @@ header nav{
   margin-top:10px;
 }
 
+header .highlight, header .current a{
+  color:#e8491d;
+  font-weight:bold;
+}
+
+header a:hover{
+  color:#cccccc;
+  font-weight:bold;
+}
+
 /* showcase */
 #showcase{
-  min-height: 250px;
+  min-height: 400px;
   background-color: #f4f4f4;
   text-align: center;
   color:black;
+}
+
+#showcase h1{
+  margin-top:100px;
+  font-size:55px;
+  margin-bottom:10px;
+}
+
+#showcase p{
+  font-size:20px;
 }
 
 /* Newsletter */
