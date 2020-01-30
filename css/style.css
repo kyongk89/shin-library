@@ -38,15 +38,14 @@ ul{
 
 /* Header **/
 header{
-  background:#2727B0;
-  color:#ffffff;
+  color:##000000;
   padding-top:30px;
   min-height:70px;
   border-bottom:black 3px solid;
 }
 
 header a{
-  color:#ffffff;
+  color:##000000;
   text-decoration:none;
   text-transform:uppercase;
   font-size:16px;
