@@ -38,6 +38,8 @@ ul{
 
 /* Header **/
 header{
+  padding-top:30px;
+  min-height:70px;
   color:##000000;
   border-bottom:black 3px solid;
 }
