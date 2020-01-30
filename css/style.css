@@ -53,13 +53,13 @@ header a{
 }
 
 header li{
-  float:left;
+  float:center;
   display:inline;
   padding: 0 20px 0 20px;
 }
 
 header #branding{
-  float:left;
+  float:center;
 }
 
 header #branding h1{
