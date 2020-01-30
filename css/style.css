@@ -39,8 +39,6 @@ ul{
 /* Header **/
 header{
   color:##000000;
-  padding-top:30px;
-  min-height:70px;
   border-bottom:black 3px solid;
 }
 
@@ -111,8 +109,6 @@ header a:hover{
 }
 
 footer{
-  padding:20px;
-  margin-top: 20px;
   color: ##000000;
   text-align: center;
 }
