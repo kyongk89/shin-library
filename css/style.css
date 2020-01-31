@@ -99,7 +99,7 @@ header a:hover{
 }
 
 #boxes .box{
-  float:center;
+  float:left;
   text-align:center;
   width:30%;
   padding:10px;
